@@ -300,7 +300,7 @@ ghc-mod commands are prefixed by ~SPC m m~:
 
 | Key Binding | Description                               |
 |-------------+-------------------------------------------|
-| ~SPC t~     | insert template                           |
+| ~SPC m m t~ | insert template                           |
 | ~SPC m m u~ | insert template with holes                |
 | ~SPC m m a~ | select one of possible cases (~ghc-auto~) |
 | ~SPC m m f~ | replace a hole (~ghc-refine~)             |
